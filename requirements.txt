@@ -67,7 +67,7 @@ twilio==5.4.0
 Unirest==1.1.7
 visitor==0.1.2
 webassets==0.11.1
-Werkzeug==0.11.4
+Werkzeug==0.15.3
 wrapt==1.10.8
 WTForms==2.1
 yapf==0.16.0
