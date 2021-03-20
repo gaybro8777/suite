@@ -30,7 +30,7 @@ idna==2.0
 ipaddress==1.0.16
 iso8601==0.1.11
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jsmin==2.2.0
 kombu==3.0.35
 lazy-object-proxy==1.2.2
